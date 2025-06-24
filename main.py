@@ -1,0 +1,5 @@
+print("Welcome!")
+city = input("Enter the city that you grew up in: ")
+pet = input("Enter the name of a pet: ")
+#print(f"{city}" + f"{pet}")
+print("The Band Name is:" + city + pet)
